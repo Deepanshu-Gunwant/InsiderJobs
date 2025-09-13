@@ -31,15 +31,6 @@ InsiderJobs is a **full-stack job portal platform** designed to connect job seek
 - **Deployed on Vercel**
 
 ---
-## Project Screenshots
-
-### Demo 1
-![Demo 1](Screenshots/demo1.jpg)
-
-### Demo 2
-![Demo 2](Screenshots/demo2.jpg)
-
----
 
 ## ⚡ Getting Started
 
