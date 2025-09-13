@@ -1,4 +1,4 @@
-# 💼 Insiderjobs – Modern Job Portal
+# 💼 InsiderJobs – Modern Job Portal
 
 [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://job-portal-client-kohl-theta.vercel.app/)
 
