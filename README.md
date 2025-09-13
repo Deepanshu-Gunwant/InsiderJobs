@@ -61,6 +61,10 @@ npm install
 npm start  
 ## 🌐 Live Demo
 
-Check out the demo: [InsiderJobs App](https://job-portal-client-kohl-theta.vercel.app/)
+Check out the demo: [InsiderJobs App](https://job-portal-client-kohl-theta.vercel.app/)  
+
+## 👨‍💻 Developer  
+
+Made with 💙 by **[Deepanshu Gunwant](https://github.com/Deepanshu-Gunwant)**
 
 
