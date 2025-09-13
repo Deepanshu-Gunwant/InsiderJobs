@@ -33,23 +33,25 @@ InsiderJobs is a **full-stack job portal platform** designed to connect job seek
 ---
 
 ## ⚡ Getting Started
+
+### 1️⃣ Clone the Repository
+
 git clone https://github.com/Deepanshu-Gunwant/Insiderjobs.git
 cd Insiderjobs/job-portal
 
 ### 2️⃣ Setup the Client (Frontend)
 
-cd client
-npm install
-npm run dev
+cd client  
+npm install  
+npm run dev  
 
 ### 3️⃣ Setup the Server (Backend)
 
-cd server
-npm install
-npm start
+cd server  
+npm install  
+npm start  
 ## 🌐 Live Demo
 
 Check out the demo: [InsiderJobs App](https://job-portal-client-kohl-theta.vercel.app/)
 
-### 1️⃣ Clone the Repository
 
